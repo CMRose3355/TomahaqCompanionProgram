@@ -1,8 +1,0 @@
-Name,Mass,ModSites,ModChar,Type,Trigger,Target
-TMT10,229.16293,K;NPep,,Static,True,True,
-TMTsh,235.17677,K;NPep,,Static,False,False,
-CAM,57.02146,C,,Static,True,True,
-OX,15.99491,M,*,Dynamic,True,True,
-K8TMT10,237.17713,K,#,Dynamic,True,False,
-K8TMTSH,243.19097,K,#,Dynamic,False,False,
-R10,10.00827,R,$,Dynamic,True,False,
